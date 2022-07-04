@@ -1,0 +1,9 @@
+.chess-board{
+    padding-left: 30px;
+    padding-top: 30px;
+    & .board{
+        width: 400px;
+        height: 400px;
+        outline: 1px solid black;
+    }
+}
